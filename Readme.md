@@ -47,6 +47,10 @@ Este projeto consiste na automação de testes para o site [sauce-demo.myshopify
 
 5. **Execute os testes** no navegador Edge.
 
+## Edge Driver
+
+A instalação do driver do Edge é essencial para a execução de testes automatizados com Selenium, pois permite a comunicação entre o código de teste e o navegador. Sem o driver adequado, os testes não conseguem iniciar ou controlar o navegador Edge, resultando em falhas na execução.
+
 ## Como Executar os Testes
 
 Para rodar os testes, siga os passos:
