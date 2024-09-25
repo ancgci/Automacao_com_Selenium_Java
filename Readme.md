@@ -62,10 +62,6 @@ Para rodar os testes, siga os passos:
 2. Execute a classe de testes que deseja verificar.
 3. Os resultados serão exibidos no console do IntelliJ.
 
-## Imagem
-
-![1](https://github.com/ancgci/Automacao_com_Selenium_Java/blob/main/selenium.PNG)
-
 ## Contribuições
 
 Sinta-se à vontade para contribuir com o projeto! Faça um fork do repositório, crie uma nova branch e envie um pull request.
