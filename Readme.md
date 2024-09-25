@@ -4,6 +4,11 @@
 
 Recentemente, concluí o curso de Automação de Testes de Software com Selenium e Java oferecido pela empresa Bee Engineer. O curso proporcionou uma base teórica e prática, onde pude aprender a utilizar o Selenium para automatizar testes de software.
 
+## Fotos
+
+![1](https://)
+
+
 ## Descrição
 
 Este projeto consiste na automação de testes para o site [sauce-demo.myshopify.com](https://sauce-demo.myshopify.com) utilizando **Selenium** com **Java** e gerenciado por **Maven**. A IDE utilizada foi o **IntelliJ** e os testes foram executados no navegador **Edge**. 
