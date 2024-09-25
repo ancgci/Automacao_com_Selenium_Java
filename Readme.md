@@ -4,10 +4,7 @@
 
 Recentemente, concluí o curso de Automação de Testes de Software com Selenium e Java oferecido pela empresa Bee Engineer. O curso proporcionou uma base teórica e prática, onde pude aprender a utilizar o Selenium para automatizar testes de software.
 
-## Fotos
-
-![1](https://)
-
+![Demonstração do teste automatizado](SeleniumTest.gif)
 
 ## Descrição
 
@@ -63,6 +60,10 @@ Para rodar os testes, siga os passos:
 1. Abra o IntelliJ e carregue o projeto.
 2. Execute a classe de testes que deseja verificar.
 3. Os resultados serão exibidos no console do IntelliJ.
+
+## Imagem
+
+![1](https://github.com/ancgci/Automacao_com_Selenium_Java/blob/main/selenium.PNG)
 
 ## Contribuições
 
