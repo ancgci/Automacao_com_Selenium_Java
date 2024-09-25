@@ -1,6 +1,6 @@
 # Automação de Testes com Selenium e Java
 
-![Selenium](https://img.icons8.com/color/48/000000/selenium.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png)
+![Selenium](https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png)
 
 Recentemente, concluí o curso de Automação de Testes de Software com Selenium e Java oferecido pela empresa Bee Engineer. O curso proporcionou uma base teórica e prática, onde pude aprender a utilizar o Selenium para automatizar testes de software.
 
