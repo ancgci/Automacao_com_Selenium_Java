@@ -28,7 +28,8 @@ Este projeto consiste na automação de testes para o site [sauce-demo.myshopify
 ├── pom.xml
 └── README.md
 ```
-
+![2](https://github.com/ancgci/Automacao_com_Selenium_Java/blob/main/media/Estrutura.PNG)
+  
 ## Instalação
 
 1. **Clone o repositório**:
@@ -77,8 +78,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para mais informações, entre em contato:
 
-- **GitHub**: [ancgci](https://github.com/ancgci)
-```
+**GitHub**: [ancgci](https://github.com/ancgci)
+
 
 
 
