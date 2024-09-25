@@ -4,7 +4,7 @@
 
 Recentemente, concluí o curso de Automação de Testes de Software com Selenium e Java oferecido pela empresa Bee Engineer. O curso proporcionou uma base teórica e prática, onde pude aprender a utilizar o Selenium para automatizar testes de software.
 
-![Demonstração do teste automatizado](SeleniumTest.gif)
+![Demonstração do teste automatizado](https://github.com/ancgci/Automacao_com_Selenium_Java/blob/main/media/SeleniumTest.gif)
 
 ## Descrição
 
